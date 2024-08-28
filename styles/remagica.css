@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Are+You+Serious&display=swap');
+
+.lexend-deca-<uniquifier> {
+      font-family: "Lexend Deca", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: <weight>;
+      font-style: normal;
+    }
+.montserrat-<uniquifier> {
+      font-family: "Montserrat", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: <weight>;
+      font-style: normal;
+}
+.are-you-serious-regular {
+      font-family: "Are You Serious", cursive;
+      font-weight: 400;
+      font-style: normal;
+}
+
+.fondamento-regular {
+      font-family: "Fondamento", cursive;
+      font-weight: 400;
+      font-style: normal;
+}
+.fondamento-regular-italic {
+      font-family: "Fondamento", cursive;
+      font-weight: 400;
+      font-style: italic;
+}
+
+h1 {
+      font-weight: 650;
+      font-family: "Fondamento-Regular", serif;
+      font-size: 2em;
+}
+
+h2 {
+      font-weight: 600;
+      font-family: "Fondamento", serif;
+      font-size: 1.5em;
+}
+
+h3 {
+      font-weight: 750;
+      font-family: "Fondamento", serif;
+      font-size: 1em;
+}
+
+h4 {
+      font-weight: 550;
+      font-italic: 1;
+      font-family: "Fondamento", serif;
+      font-size: 1em;
+}
+
+body {
+      background-color:#fff;
+      color: #000;
+      font-weight: 400;
+      font-family: "Are You Serious", sans-serif;
+      font-size: 1em;
+      padding-top: 3%;
+      margin-top:1em;
+      padding-right: 1.5em;
+      padding-left: 7.5em;
+}

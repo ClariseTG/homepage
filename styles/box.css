@@ -1,0 +1,20 @@
+.mainbox {
+    border-left: 0.5em solid white;
+    background-color: rgba(255, 255, 255, 0.2);
+    display: block;
+    width: 70%;
+    position: fixed;
+    top: 5%;
+    left: 16%;
+    padding: 2em;
+}
+
+.sidebar {
+    display: block;
+    width: 12%;
+    padding: 0.2em;
+    position: fixed;
+    top: 5%;    
+    left: 2%;
+    /*border: 0.25em solid white;*/
+}

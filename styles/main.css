@@ -1,0 +1,40 @@
+:root {
+      --header-font: "ClariseSpeak", cursive;
+      --body-font: "Fondamento", cursive;
+}
+
+h1 {
+      font-family: var(--header-font);
+      font-size: 2.5em;
+}
+
+h2 {
+      font-family: var(--header-font);
+      font-size: 2em;
+}
+
+h3 {
+      font-family: var(--header-font);
+      font-size: 1.5em;
+}
+
+h4 {
+      font-family: var(--header-font);
+      font-style: italic;
+      font-size: 1em;
+}
+
+body {
+      background-color:#000;
+      color: #fff;
+      background-image: url('../assets/sparkles.gif'), url('../assets/stars.jpg');
+      background-repeat: repeat, repeat;
+      background-size: 200px, cover;
+      font-weight: 400;
+      font-family: var(--body-font);
+      font-size: 1.5em;
+      padding-top: 3%;
+      margin-top:1em;
+      padding-right: 1.5em;
+      padding-left: 10%;
+}
