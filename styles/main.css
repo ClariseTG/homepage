@@ -38,3 +38,18 @@ body {
       padding-right: 1.5em;
       padding-left: 10%;
 }
+
+a {
+    color: #00ffff;
+}
+
+a:visited {
+    color: #aa66ff;
+}
+link {
+    color: #00ffff;
+}
+
+link:visited {
+    color: #c06eff;
+}
